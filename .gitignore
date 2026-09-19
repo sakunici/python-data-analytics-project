@@ -1,0 +1,9 @@
+# Ignore Large Datasets
+E-Commerce Sales/
+
+# Ignore Python Virtual Environment & Cache
+venv/
+__pycache__/
+
+# Ignore Environment Variables (API Keys)
+.env
