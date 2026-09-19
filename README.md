@@ -27,6 +27,18 @@ Built with **Streamlit**, **DuckDB**, **Polars**, **Plotly**, and powered by **G
 
 ---
 
+### 📥 Dataset Requirements
+The dataset used in this project is too large to be hosted on GitHub. Please download the raw data from Kaggle:
+* 🔗 [E-Commerce Sales and Customer Analytics Dataset](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics)
+
+**Setup Instructions:**
+1. Download the archive from the link above.
+2. Extract the ZIP file.
+3. Create a new folder named `E-Commerce Sales` in the root directory of this project.
+4. Place all the extracted `.csv` files inside that folder.
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** [Streamlit](https://streamlit.io/)
